@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hello world!! 👋 I'm Agata 
 
-'''
+✧A little about me:✧
+
+```cpp
 class AgaYoon {
 public:
     string myTeam = "Jovem Talento Tech";
@@ -15,4 +17,4 @@ public:
         cout << "One code at a time!🚩" << endl;
     }
 };
-'''
+```
