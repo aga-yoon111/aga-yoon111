@@ -6,7 +6,7 @@
 class AgaYoon {
 public:
     string myTeam = "Jovem Talento Tech";
-    vector<string> nationalities = {"Brazilian-Korean", "living in Brazil"};
+    vector<string> nationalities = {"Brazilian-Korean", "living in Sao Paulo"};
     vector<string> languages = {"C++", "Python"};
     vector<string> mainInterests = {"Competitive Programming", "Learning new things", "University"};
 
