@@ -5,7 +5,7 @@
 ```cpp
 class AgaYoon {
 public:
-    string myTeam = "Behring Academyh";
+    string myTeam = "Behring Academy";
     vector<string> nationalities = {"Brazilian-Korean", "living in Sao Paulo"};
     vector<string> languages = {"C++", "Python"};
     vector<string> mainInterests = {"Competitive Programming", "Learning new things", "University"};
