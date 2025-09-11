@@ -8,7 +8,7 @@ public:
     string myTeam = "Behring Academy";
     vector<string> nationalities = {"Brazilian-Korean", "living in Sao Paulo"};
     vector<string> languages = {"C++", "Python"};
-    vector<string> mainInterests = {"Competitive Programming", "Learning new things", "University"};
+    vector<string> mainInterests = {"Competitive Programming", "Learning new things", "Study abroad"};
 
     void introducingMe() {
         cout << "Hey! I'm a girl part of B.A. and currently exploring the world of C++." << endl;
